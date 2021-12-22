@@ -7,7 +7,7 @@ A simple webpage, that allow user to change themes at will, and store user's pre
 
  ## Author
  - :bust_in_silhouette: Matheus Vidal
-  - Github: [@Ryuukhi](https://github.com/Ryuukhi)
+  - Github: [@matheuscubas](https://github.com/matheuscubas)
   - Linkedin:  [Matheus Vidal](https://www.linkedin.com/in/matheusvcubas)
   
   ## Credits
